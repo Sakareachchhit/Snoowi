@@ -1,5 +1,6 @@
 /**
  * @format
+ * create by Sakareach SK //
  */
 
 import {AppRegistry} from 'react-native';
