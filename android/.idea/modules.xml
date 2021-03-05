@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Snoowi.iml" filepath="$PROJECT_DIR$/.idea/modules/Snoowi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Snoowi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Snoowi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-161186385/Snoowi.react-native-appearance.iml" filepath="$PROJECT_DIR$/.idea/modules/-161186385/Snoowi.react-native-appearance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-916156261/Snoowi.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-916156261/Snoowi.react-native-vector-icons.iml" />
     </modules>
   </component>
 </project>
