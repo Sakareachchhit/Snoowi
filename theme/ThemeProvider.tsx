@@ -1,4 +1,5 @@
 import * as React from "react";
+import { useEffect } from "react";
 import { useColorScheme } from "react-native-appearance";
 import { lightColors, darkColors, Colors } from "./colorThemes";
 
@@ -18,7 +19,7 @@ export const ThemeProvider: React.FC<{}> = (props) => {
   const colorScheme = useColorScheme();
   const [isDark, setIsDark] = React.useState<boolean>(colorScheme === "dark");
 
-  React.useEffect(() => {
+  useEffect(() => {
     setIsDark(colorScheme === "dark");
   }, [colorScheme]);
 
